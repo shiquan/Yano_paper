@@ -1,0 +1,68 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##fileDate=20221104
+##source=dbSNP
+##dbSNP_BUILD_ID=156
+##reference=GRCh37.p13
+##phasing=partial
+##INFO=<ID=RS,Number=1,Type=Integer,Description="dbSNP ID (i.e. rs number)">
+##INFO=<ID=GnomAD,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=KOREAN,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=TOMMO,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=dbGaP_PopFreq,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=MGP,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=PRJEB37584,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=SGDP_PRJ,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=HGDP_Stanford,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=Daghestan,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=TOPMED,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=GoNL,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=Korea1K,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=1000Genomes,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=NorthernSweden,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=Qatari,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=Siberian,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=ALSPAC,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=TWINSUK,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=HapMap,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=Estonian,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=GENOME_DK,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=Vietnamese,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=PAGE_STUDY,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=PharmGKB,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=PRJEB36033,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=ExAC,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=GnomAD_exomes,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=GoESP,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=Chileans,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=ChromosomeY,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=GENOGRAPHIC,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=FINRISK,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=GENOGRAPHIC,Number=R,Type=Float,Description="Allele Freq">
+##INFO=<ID=PRJEB37766,Number=R,Type=Float,Description="Allele Freq">
+##contig=<ID=NC_000001.10>
+##contig=<ID=NC_000002.11>
+##contig=<ID=NC_000003.11>
+##contig=<ID=NC_000004.11>
+##contig=<ID=NC_000005.9>
+##contig=<ID=NC_000006.11>
+##contig=<ID=NC_000007.13>
+##contig=<ID=NC_000008.10>
+##contig=<ID=NC_000009.11>
+##contig=<ID=NC_000010.10>
+##contig=<ID=NC_000011.9>
+##contig=<ID=NC_000012.11>
+##contig=<ID=NC_000013.10>
+##contig=<ID=NC_000014.8>
+##contig=<ID=NC_000015.9>
+##contig=<ID=NC_000016.9>
+##contig=<ID=NC_000017.10>
+##contig=<ID=NC_000018.9>
+##contig=<ID=NC_000019.9>
+##contig=<ID=NC_000020.10>
+##contig=<ID=NC_000021.8>
+##contig=<ID=NC_000022.10>
+##contig=<ID=NC_000023.10>
+##contig=<ID=NC_000024.9>
+##contig=<ID=NC_012920.1>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
